@@ -1,47 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:020617,45:0f172a,100:111827&text=NEXUZZZ0%20%2F%2F%20DEV%20CONSOLE&fontColor=39D353&fontSize=34&fontAlignY=45&desc=systems%20online%20%E2%80%A2%20build%20logs%20green%20%E2%80%A2%20shipping%20experiments&descColor=94a3b8&descSize=14&descAlignY=72" alt="Nexuzzz0 dev console banner">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=128&color=0:020617,35:312E81,70:0F766E,100:EA580C&text=NEXUZZZ0%20%2F%2F%20WORKBENCH&fontColor=F8FAFC&fontSize=34&fontAlignY=43&desc=code%20experiments%20%E2%80%A2%20messy%20notes%20%E2%80%A2%20small%20systems%20that%20actually%20run&descColor=CBD5E1&descSize=14&descAlignY=72" alt="Nexuzzz0 workbench banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=39D353&center=true&vCenter=true&width=780&lines=%24+boot+--profile+Nexuzzz0;%24+init+fullstack+ai+networks+embedded;%24+ship+small+tools+and+real+projects;%24+trace+bugs+%3E+write+docs+%3E+refactor" alt="Terminal typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=800&color=60A5FA&center=true&vCenter=true&width=820&lines=%24+open+workspace+%3A+web+%2B+ai+%2B+networks+%2B+embedded;%24+debug+until+the+weird+part+makes+sense;%24+turn+coursework+and+ideas+into+real+repos;%24+ship+rough%2C+then+make+it+cleaner" alt="Terminal typing animation">
 
-<a href="https://github.com/Nexuzzz0?tab=repositories"><img src="https://img.shields.io/badge/repos-000000?style=for-the-badge&logo=github&logoColor=39D353&labelColor=020617" alt="Repositories"></a>
-<a href="https://nexuzzz0.github.io"><img src="https://img.shields.io/badge/site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=39D353&labelColor=020617" alt="Site"></a>
-<img src="https://komarev.com/ghpvc/?username=Nexuzzz0&style=for-the-badge&color=39d353&label=profile+trace" alt="Profile trace">
+<a href="https://github.com/Nexuzzz0?tab=repositories"><img src="https://img.shields.io/badge/repos-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=1E293B" alt="Repositories"></a>
+<a href="https://nexuzzz0.github.io"><img src="https://img.shields.io/badge/site-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F172A" alt="Site"></a>
+<img src="https://komarev.com/ghpvc/?username=Nexuzzz0&style=for-the-badge&color=EA580C&label=profile+visits" alt="Profile visits">
 
 </div>
 
 ---
 
-### root@github:~$ status
+### ~/workspace/status
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ```txt
-SYSTEM      : online
-MODE        : build / break / learn / ship
-FOCUS       : web apps, AI workflows, networks, embedded
-EDITOR      : VS Code + terminal
-SIGNAL      : green commits > perfect plans
+handle      : Nexuzzz0
+mode        : building in public
+focus       : web apps / AI workflows / networks / embedded
+editor      : VS Code, browser tabs, terminal
+current     : making small projects less rough
 ```
 
   </td>
   <td width="50%" valign="top">
 
 ```txt
-CURRENT OPS
-[01] turn rough ideas into runnable prototypes
-[02] keep projects documented and reproducible
-[03] learn systems by building smaller systems
-[04] improve code quality through iteration
+notes from the desk
+- prototypes are allowed to be ugly first
+- docs count as part of the build
+- bugs are usually better teachers than tutorials
+- green checks are nice; readable code is better
 ```
 
   </td>
   </tr>
 </table>
 
-### ./stack --map
+### ./toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,vue,python,django,html,css,git,github,vscode,bash&perline=11" alt="Stack icons">
@@ -51,64 +51,59 @@ CURRENT OPS
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/frontend-Vue%20%2F%20TS-39D353?style=flat-square&labelColor=020617" alt="Frontend"></td>
-    <td align="center"><img src="https://img.shields.io/badge/backend-Django%20%2F%20Python-38BDF8?style=flat-square&labelColor=020617" alt="Backend"></td>
-    <td align="center"><img src="https://img.shields.io/badge/systems-Networks%20%2F%20MCU-FACC15?style=flat-square&labelColor=020617" alt="Systems"></td>
-    <td align="center"><img src="https://img.shields.io/badge/workflow-Git%20%2F%20Docs-A78BFA?style=flat-square&labelColor=020617" alt="Workflow"></td>
+    <td align="center"><img src="https://img.shields.io/badge/frontend-Vue%20%2B%20TypeScript-42B883?style=flat-square&labelColor=0F172A" alt="Frontend"></td>
+    <td align="center"><img src="https://img.shields.io/badge/backend-Django%20%2B%20Python-38BDF8?style=flat-square&labelColor=0F172A" alt="Backend"></td>
+    <td align="center"><img src="https://img.shields.io/badge/ai-learning%20tools-A78BFA?style=flat-square&labelColor=0F172A" alt="AI tools"></td>
+    <td align="center"><img src="https://img.shields.io/badge/systems-networks%20%2B%20MCU-F97316?style=flat-square&labelColor=0F172A" alt="Systems"></td>
   </tr>
 </table>
 
-### ./projects --pinned
+### ./project-lab
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nexuzzz0/ai-wrong-notebook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=ai-wrong-notebook&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=39D353&text_color=CBD5E1&icon_color=39D353" alt="ai-wrong-notebook repo card"></a>
-      <br><sub><b>node:</b> AI-assisted review workflow · TypeScript · learning automation</sub>
+      <a href="https://github.com/Nexuzzz0/ai-wrong-notebook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=ai-wrong-notebook&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=CBD5E1&icon_color=A78BFA" alt="ai-wrong-notebook repo card"></a>
+      <br><sub><b>lab note:</b> AI-assisted review flow, built around real study friction.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nexuzzz0/Django-Vue-Online-Shopping-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=Django-Vue-Online-Shopping-System&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=39D353&text_color=CBD5E1&icon_color=38BDF8" alt="Django Vue repo card"></a>
-      <br><sub><b>node:</b> full-stack practice · Vue frontend · Django backend</sub>
+      <a href="https://github.com/Nexuzzz0/Django-Vue-Online-Shopping-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=Django-Vue-Online-Shopping-System&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=42B883&text_color=CBD5E1&icon_color=42B883" alt="Django Vue repo card"></a>
+      <br><sub><b>lab note:</b> full-stack app practice, split across Vue and Django.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nexuzzz0/Computer-NetWork"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=Computer-NetWork&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=39D353&text_color=CBD5E1&icon_color=FACC15" alt="Computer-NetWork repo card"></a>
-      <br><sub><b>node:</b> protocols · routing · lab notes · network fundamentals</sub>
+      <a href="https://github.com/Nexuzzz0/Computer-NetWork"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=Computer-NetWork&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" alt="Computer-NetWork repo card"></a>
+      <br><sub><b>lab note:</b> protocols, routing, packet-level thinking, and experiments.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nexuzzz0/-AT89C51-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=-AT89C51-&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=39D353&text_color=CBD5E1&icon_color=A78BFA" alt="AT89C51 repo card"></a>
-      <br><sub><b>node:</b> embedded practice · assembly routines · hardware control</sub>
+      <a href="https://github.com/Nexuzzz0/-AT89C51-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexuzzz0&repo=-AT89C51-&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=F97316&text_color=CBD5E1&icon_color=F97316" alt="AT89C51 repo card"></a>
+      <br><sub><b>lab note:</b> embedded practice, assembly routines, and hardware control.</sub>
     </td>
   </tr>
 </table>
 
-### ./telemetry --github
+### ./signals
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nexuzzz0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=39D353&text_color=CBD5E1&icon_color=39D353&rank_icon=github&custom_title=runtime%20metrics" alt="GitHub runtime metrics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuzzz0&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=39D353&text_color=CBD5E1&langs_count=8" alt="Language telemetry">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nexuzzz0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1&icon_color=F97316&rank_icon=github&custom_title=build%20signals" alt="GitHub build signals">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuzzz0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Language signals">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexuzzz0&bg_color=020617&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=commit%20signal" alt="Commit activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexuzzz0&bg_color=0F172A&color=CBD5E1&line=60A5FA&point=F97316&area=true&area_color=312E81&hide_border=true&custom_title=commit%20weather" alt="Commit weather graph">
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/39d353/Nexuzzz0" alt="Contribution heatmap">
+  <img src="https://ghchart.rshah.org/60A5FA/Nexuzzz0" alt="Contribution heatmap">
 </div>
 
-### ./protocol
+### ./loop
 
 ```txt
-while (online) {
-  build();
-  document();
-  refactor();
-  ship();
-}
+idea -> rough prototype -> confusing bug -> notes -> cleaner version -> next idea
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:020617,100:0f172a&text=%3C%2F%3E%20end%20of%20console&fontColor=39D353&fontSize=16" alt="End of console">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:020617,35:1E293B,70:312E81,100:EA580C&text=still%20building%20%2F%2F%20still%20debugging&fontColor=F8FAFC&fontSize=16" alt="Still building footer">
 </div>
